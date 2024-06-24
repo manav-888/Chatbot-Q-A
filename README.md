@@ -11,7 +11,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/manav-888/manav-wasserstoff-AiTask.git
+   git clone https://github.com/manav-888/Chatbot-Q-A.git
    ```
 
 2. **Create a Virtual Environment:**
