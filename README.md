@@ -1,5 +1,5 @@
-# Chatbot Q/A
-![Screenshot 2024-06-01 at 3 29 49 PM](https://github.com/manav-888/manav-wasserstoff-AiTask/assets/28830098/39bb57ea-bbbe-433a-ae81-a9b74596e4dc)
+# Chatbot Q/A![ChatBot With Google API](https://github.com/manav-888/Chatbot-Q-A/assets/28830098/b50a55ef-5fa4-4ddf-9abd-1a545bcae761)
+
 
 # Building a Chatbot by using Google API and Hugging Face model
 
