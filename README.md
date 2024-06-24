@@ -42,13 +42,13 @@ Follow these steps to set up the project on your local machine:
     GOOGLE_API_KEY=" Insert Your KEY "
    
    ```
-![change_API](https://github.com/manav-888/manav-wasserstoff-AiTask/assets/28830098/1163fab6-7e03-4ade-81c7-c72ad8d0e700)
+
 
    **  or: ** 
 
    ** To run without Google API key  then hit submit query button with Hugging face model **
 
-![Screenshot 2024-06-01 at 3 31 42 PM](https://github.com/manav-888/manav-wasserstoff-AiTask/assets/28830098/f8e9ddc0-8023-4bcd-9ada-3b7b34cea4bc)
+
 
 
 8. **  Run a app.py file in terminal **
